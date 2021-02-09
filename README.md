@@ -14,15 +14,17 @@ Outstanding Issues (for preprint):
 
 Switch modes vs. Convergence and constraint.
 
-Path Dependence vs. Innateness (mixed features).
+* path Dependence vs. Innateness (mixed features).
+
 
 Potential tasks:
 
-Theory development (@ansonzlim), fleshing out and defining different components and their relations.
+* theory development (@ansonzlim), fleshing out and defining different components and their relations.
 
-Computational verification / principle "testing" (FEP inspo)
+* computational verification / principle "testing" (FEP inspo)
 
-Real-world impacts: Gary Marcus "Robust AI" ; Lisa Feldmen Barret, clinical approaches
+* real-world impacts: Gary Marcus "Robust AI" ; Lisa Feldmen Barret, clinical approaches
+
 
 Next steps?
 
@@ -33,4 +35,3 @@ Next steps?
 * examination of the various conceptual components and start fitting them together - a Wiki?
 
 * different papers or posts fleshing out this "ecosystem" of concepts.
-
