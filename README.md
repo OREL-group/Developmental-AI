@@ -14,8 +14,11 @@ Outstanding Issues (for preprint):
 
 Switch modes vs. Convergence and constraint.
 
-* path Dependence vs. Innateness (mixed features).
+* Path Dependence vs. Innateness (mixed features).
 
+Analogies and Mathematical Parallels
+
+* epigenetic landscapes vs. gradient descent (quantitative trajectories, energy minimization).
 
 Potential tasks:
 
