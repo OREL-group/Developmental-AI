@@ -24,7 +24,7 @@ Potential tasks:
 
 * theory development (@ansonzlim), fleshing out and defining different components and their relations.
 
-* computational verification / principle "testing" (FEP inspo)
+* computational verification / principle "testing" (inspiration from free energy principle)
 
 * real-world impacts: Gary Marcus "Robust AI" ; Lisa Feldmen Barret, clinical approaches
 
