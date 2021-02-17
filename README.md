@@ -10,15 +10,24 @@ Outstanding Issues (for preprint):
 
 * stray cat analogy (different trajectories in development).
 
+* sensory deprivation as an example of Gibsonian Information.
+
 * certain paths lead to cetain outcomes (possibility tree, epigenetic landscapes).
+
 
 Switch modes vs. Convergence and constraint.
 
 * Path Dependence vs. Innateness (mixed features).
 
+
 Analogies and Mathematical Parallels
 
 * epigenetic landscapes vs. gradient descent (quantitative trajectories, energy minimization).
+
+* population-based approach (agents with diversity rather than pure minimization).
+
+* are developmental trajectories always maximally efficient? Phenotypic buffering, pleiotropy, minimally viable phenotypes (not developmentally lethal).
+
 
 Potential tasks:
 
@@ -28,13 +37,14 @@ Potential tasks:
 
 * real-world impacts: Gary Marcus "Robust AI" ; Lisa Feldmen Barret, clinical approaches
 
-
 Next steps?
 
-* differentiate Developmental AI from "Regular AI", and what we mean by "development" (sequential acquisition vs. emergent morphogenesis)?
+1) Differentiate Developmental AI from "Regular AI", and what we mean by "development" (sequential acquisition vs. emergent morphogenesis)?
 
 * what is DevAI (guiding document)?
 
 * examination of the various conceptual components and start fitting them together - a Wiki?
 
-* different papers or posts fleshing out this "ecosystem" of concepts.
+Different papers or posts fleshing out this "ecosystem" of concepts.
+
+* DevAI, Gibsonian Information, Allostasis Machines.
