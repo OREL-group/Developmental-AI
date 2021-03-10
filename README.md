@@ -2,18 +2,9 @@
 
 ### Place to host theoretical synthesis for Developmental AI.
 
-### Outstanding Issues (for preprint):
+### Preprint
 
-* critical periods and development
-
-* developmental periods are facilitated by parentage, assisted development.
-
-* stray cat analogy (different trajectories in development).
-
-* sensory deprivation as an example of Gibsonian Information.
-
-* certain paths lead to cetain outcomes (possibility tree, epigenetic landscapes).
-
+Embodied Continual Learning Across Developmental Time Via Developmental Braitenberg Vehicles [link](https://www.researchgate.net/publication/344935474_Embodied_Continual_Learning_Across_Developmental_Time_Via_Developmental_Braitenberg_Vehicles)  
 
 ### Switch modes vs. Convergence and constraint.
 
