@@ -1,8 +1,8 @@
 ## Developmental AI
 
-Place to host theoretical synthesis for Developmental AI.
+### Place to host theoretical synthesis for Developmental AI.
 
-Outstanding Issues (for preprint):
+### Outstanding Issues (for preprint):
 
 * critical periods and development
 
@@ -15,12 +15,13 @@ Outstanding Issues (for preprint):
 * certain paths lead to cetain outcomes (possibility tree, epigenetic landscapes).
 
 
-Switch modes vs. Convergence and constraint.
+### Switch modes vs. Convergence and constraint.
 
 * Path Dependence vs. Innateness (mixed features).
 
+* canalization function.
 
-Analogies and Mathematical Parallels
+### Analogies and Mathematical Parallels
 
 * epigenetic landscapes vs. gradient descent (quantitative trajectories, energy minimization).
 
@@ -45,6 +46,11 @@ Next steps?
 
 * examination of the various conceptual components and start fitting them together - a Wiki?
 
-Different papers or posts fleshing out this "ecosystem" of concepts.
+### Roadmap
+<P>
+  <IMG SRC="https://github.com/OREL-group/Developmental-AI/blob/main/Media/EI%20Workshop%2C%20Developmental%20AI.png">
+    </P>
+
+
 
 * DevAI, Gibsonian Information, Allostasis Machines.
