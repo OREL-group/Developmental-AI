@@ -2,7 +2,7 @@
 Place to host theoretical synthesis for Developmental AI  
 
 <P>
-  <IMG SRC="https://github.com/OREL-group/Developmental-AI/blob/main/Media/DevAI.png">
+  <IMG SRC="https://github.com/OREL-group/Developmental-AI/blob/main/Media/DevelopmentalAI.png">
     </P>
 
 ### Publications   
@@ -14,6 +14,8 @@ Place to host theoretical synthesis for Developmental AI
 Training on Viewpoint Networks, in [Observer-dependent Collective Behavior](https://openreview.net/pdf?id=FiwgkEEmXOg)
 
 [Artificial Neural Networks vs. Biological Neural Networks](https://www.researchgate.net/publication/350061621_Connectionism_Complexity_and_Living_Systems_a_comparison_of_Artificial_and_Biological_Neural_Networks)
+
+[Dynammical Heterochrony](https://www.biorxiv.org/content/10.1101/2020.07.31.231456v1)
 
 [Allostasis Machines](---)
 
