@@ -21,7 +21,7 @@ Embodied Continual Learning Across Developmental Time Via Developmental Braitenb
 * are developmental trajectories always maximally efficient? Phenotypic buffering, pleiotropy, minimally viable phenotypes (not developmentally lethal).
 
 
-Potential tasks:
+### Potential tasks
 
 * theory development (@ansonzlim), fleshing out and defining different components and their relations.
 
@@ -39,11 +39,12 @@ Next steps?
 
 ### Roadmap
 <P>
-  <IMG SRC="https://github.com/OREL-group/Developmental-AI/blob/main/Media/EI%20Workshop%2C%20Developmental%20AI.png">
+  <IMG SRC="https://github.com/OREL-group/Developmental-AI/blob/main/Media/DevAI.png">
     </P>
 
 
-Publications:  
+### Publications  
+
 [Continual Embodied Learning](https://arxiv.org/abs/2103.05753)  
 
 [Developmental Braitenberg Vehicles](https://arxiv.org/abs/2003.07689)
