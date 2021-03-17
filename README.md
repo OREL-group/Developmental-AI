@@ -42,6 +42,17 @@ Next steps?
   <IMG SRC="https://github.com/OREL-group/Developmental-AI/blob/main/Media/EI%20Workshop%2C%20Developmental%20AI.png">
     </P>
 
+Publications:  
+[Continual Embodied Learning](https://arxiv.org/abs/2103.05753)  
 
+[Developmental Braitenberg Vehicles](https://arxiv.org/abs/2003.07689)
 
-* DevAI, Gibsonian Information, Allostasis Machines.
+Training on Viewpoint Networks, in [Observer-dependent Collective Behavior](https://openreview.net/pdf?id=FiwgkEEmXOg)
+
+[Artificial Neural Networks vs. Biological Neural Networks](https://www.researchgate.net/publication/350061621_Connectionism_Complexity_and_Living_Systems_a_comparison_of_Artificial_and_Biological_Neural_Networks)
+
+[Allostasis Machines](---)
+
+[Meta-brains Models](---)
+
+[Gibsonian Information](---)
