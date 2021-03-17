@@ -1,10 +1,26 @@
-## Developmental AI
+## Developmental AI Roadmap  
+Place to host theoretical synthesis for Developmental AI  
 
-### Place to host theoretical synthesis for Developmental AI.
+<P>
+  <IMG SRC="https://github.com/OREL-group/Developmental-AI/blob/main/Media/DevAI.png">
+    </P>
 
-### Preprint
+### Publications   
 
-Embodied Continual Learning Across Developmental Time Via Developmental Braitenberg Vehicles [link](https://www.researchgate.net/publication/344935474_Embodied_Continual_Learning_Across_Developmental_Time_Via_Developmental_Braitenberg_Vehicles)  
+[Continual Embodied Learning](https://arxiv.org/abs/2103.05753)  
+
+[Developmental Braitenberg Vehicles](https://arxiv.org/abs/2003.07689)
+
+Training on Viewpoint Networks, in [Observer-dependent Collective Behavior](https://openreview.net/pdf?id=FiwgkEEmXOg)
+
+[Artificial Neural Networks vs. Biological Neural Networks](https://www.researchgate.net/publication/350061621_Connectionism_Complexity_and_Living_Systems_a_comparison_of_Artificial_and_Biological_Neural_Networks)
+
+[Allostasis Machines](---)
+
+[Meta-brains Models](---)
+
+[Gibsonian Information](---)
+
 
 ### Switch modes vs. Convergence and constraint.
 
@@ -35,26 +51,4 @@ Next steps?
 
 * what is DevAI (guiding document)?
 
-* examination of the various conceptual components and start fitting them together - a Wiki?
-
-### Roadmap
-<P>
-  <IMG SRC="https://github.com/OREL-group/Developmental-AI/blob/main/Media/DevAI.png">
-    </P>
-
-
-### Publications  
-
-[Continual Embodied Learning](https://arxiv.org/abs/2103.05753)  
-
-[Developmental Braitenberg Vehicles](https://arxiv.org/abs/2003.07689)
-
-Training on Viewpoint Networks, in [Observer-dependent Collective Behavior](https://openreview.net/pdf?id=FiwgkEEmXOg)
-
-[Artificial Neural Networks vs. Biological Neural Networks](https://www.researchgate.net/publication/350061621_Connectionism_Complexity_and_Living_Systems_a_comparison_of_Artificial_and_Biological_Neural_Networks)
-
-[Allostasis Machines](---)
-
-[Meta-brains Models](---)
-
-[Gibsonian Information](---)
+* examination of the various conceptual components and start fitting them together - a Wiki?  
