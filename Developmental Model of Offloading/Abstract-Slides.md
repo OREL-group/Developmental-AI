@@ -7,7 +7,7 @@ We hypothesize that as the nervous system comes online during biological develop
 In serving the purpose of clarifying the origins of cognitive offloading, our model also extends traditional models of sequence heterochrony in two ways: demonstrate temporal and mechanistic distinctions between ecological plasticity and natural selection, while also examining the interplay between brain region growth and the ability for these regions to encode and represent information. This capacity limitation determines externalization in our agents, and is driven by factors such as genetic control of growth, environmental sampling, and goal-driven behaviors. These can only be understood in the common framework of a constraint-oriented developmental model.   
 
 <P align="center">
-  <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide1.png">
+  <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide-One.png">
     </P>
 <P align="center">
   <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide2.png">
@@ -28,7 +28,7 @@ In serving the purpose of clarifying the origins of cognitive offloading, our mo
   <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide7.png">
     </P>
 <P align="center">
-  <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide7.5.png">
+  <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide-Eight.png">
     </P>
 <P align="center">
   <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide8.png">
