@@ -22,10 +22,13 @@ In serving the purpose of clarifying the origins of cognitive offloading, our mo
   <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide5.png">
     </P>
 <P align="center">
-  <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide6.png">
+  <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide6.5.png">
     </P>
 <P align="center">
   <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide7.png">
+    </P>
+<P align="center">
+  <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide7.5.png">
     </P>
 <P align="center">
   <IMG SRC = "https://github.com/OREL-group/Developmental-AI/blob/main/Media/Slide8.png">
