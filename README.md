@@ -2,7 +2,7 @@
 Place to host theoretical synthesis for Developmental AI  
 
 <P>
-  <IMG SRC="https://github.com/OREL-group/Developmental-AI/blob/main/Media/DevelopmentalAI.png">
+  <IMG SRC="https://github.com/OREL-group/Developmental-AI/blob/main/Media/Dev-AI-Roadmap.png">
     </P>
 
 ### Publications   
